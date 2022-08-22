@@ -1,2 +1,3 @@
 # C2206L
-randomness is the way of life!
+web dev ho hey
+
